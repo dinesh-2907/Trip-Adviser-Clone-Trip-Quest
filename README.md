@@ -47,8 +47,8 @@ This is my second frontend project focused on improving layout design, UI struct
 
 **Dinesh S**  
 📧 Email: rajidinesh001@gmail.com  
-🔗 GitHub:
-🔗 LinkedIn:
+🔗 GitHub: https://github.com/dinesh-2907
+🔗 LinkedIn: https://www.linkedin.com/in/dineshsankaran47/
 
 
 ⭐ If you like this project, don’t forget to star the repository!
